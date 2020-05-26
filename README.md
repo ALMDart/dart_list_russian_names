@@ -1,7 +1,7 @@
 # list_russian_names
 
 ## Overview
-A list of Russian names, male and female.
+This package contains a list of a list of Russian names, male and female.
 
 ## Usage
 

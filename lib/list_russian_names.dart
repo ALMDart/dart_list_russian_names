@@ -1,3 +1,4 @@
+/// list of Russian male names
 const List<String> list_russian_names_male = [
   'Аарон',
   'Аббас',
@@ -2039,6 +2040,7 @@ const List<String> list_russian_names_male = [
   'Ясномыс'
 ];
 
+/// list of Russian female names
 const List<String> list_russian_names_female = [
   'Августа',
   'Автоноя',
