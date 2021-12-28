@@ -1,7 +1,7 @@
 name: list_russian_names
 description: This package contains a list of a list of Russian names, male and female.
-version: 0.1.0+2
-homepage: https://github.com/ALMaclaine/dart_list_russian_names
+version: 0.1.0+3
+homepage: https://github.com/ALMDart/dart_list_russian_names
 
 environment:
   sdk: '>=2.8.1 <3.0.0'
